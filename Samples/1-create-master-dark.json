@@ -1,0 +1,8 @@
+{ 
+"Command" : "CreateMasterDark", 
+"Darks": [
+	  "Darks\\bin1-120s_2188.fit",
+	  "Darks\\bin1-120s_2189.fit"
+          ],
+"Output": "Darks\\MasterDark.fit"
+}

@@ -1,0 +1,12 @@
+{ 
+"Command" : "CreateMasterFlat", 
+"DarkFlats": [
+	  "Darks\\bin1-120s_2188.fit",
+	  "Darks\\bin1-120s_2189.fit"
+          ],
+"Flats": [
+	  "Flats\\bin1_1983.fit",
+	  "Flats\\bin1_1984.fit"
+          ],
+"Output": "Flats\\MasterFlat.fit"
+}

@@ -1,0 +1,11 @@
+{ 
+"Command" : "Stack",
+"Align"   : "astrometry",
+"MasterDark" :     "Darks\\MasterDark.fit",
+"MasterFlat" :     "Flats\\MasterFlat.fit",
+"Lights": [
+	  "Lights\\helix-180-HA_4628.fit",
+	  "Lights\\helix-180-HA_4629.fit"
+          ],
+"Output": "Lights\\Output.fit"
+}
