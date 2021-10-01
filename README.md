@@ -14,7 +14,7 @@ ASTAP already provides a command-line version but only capable of solving. This 
 ## Building
 
 This project requires Lazarus 2.2.0 and FreePascal 3.2.2.
-Currently it only supports Win32/Win64 but a port to Linux should be trivial as ASTAP supports it.
+Binaries for win32 and static linux (Built on ubuntu 20.04.3 LTS) are provided.
 
 ## Calibration
 

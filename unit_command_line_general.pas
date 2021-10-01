@@ -17,7 +17,7 @@ uses
 
 var {################# initialised variables #########################}
   stdin_mode            : boolean=false;{file send via stdin}
-  version: string=' CLI-0.9.571 dated 2021-08-24';
+  version: string=' CLI-0.9.581-stack dated 2021-10-1';
   ra1  : string='0';
   dec1 : string='0';
   search_fov1    : string='0';{search FOV}
